@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25436
     wikipedia: http://en.wikipedia.org/wiki/Louis_Charles_Karpinski
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22599#The-Hindu-Arabic-Numerals
 gutenberg_bookshelf: Mathematics
 gutenberg_issued: '2007-09-14'
 gutenberg_type: Text
