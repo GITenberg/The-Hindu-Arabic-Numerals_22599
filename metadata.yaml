@@ -1,0 +1,38 @@
+_repo: The-Hindu-Arabic-Numerals_22599
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Smith, David Eugene
+    aliases:
+    - Dunham, David
+    - Smith, Eugene
+    birthdate: 1860
+    deathdate: 1944
+    gutenberg_agent_id: '3258'
+    url: http://www.gutenberg.org/2009/agents/3258
+    wikipedia: http://en.wikipedia.org/wiki/David_Eugene_Smith
+  - agent_name: Karpinski, Louis Charles
+    birthdate: 1878
+    deathdate: 1956
+    gutenberg_agent_id: '25436'
+    url: http://www.gutenberg.org/2009/agents/25436
+    wikipedia: http://en.wikipedia.org/wiki/Louis_Charles_Karpinski
+description: ''
+gutenberg_bookshelf: Mathematics
+gutenberg_issued: '2007-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22599'
+  lccn: '11020635'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Numerals'
+- !lcc 'QA'
+title: The Hindu-Arabic Numerals
+url: http://www.gutenberg.org/ebooks/22599
